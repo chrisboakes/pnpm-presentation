@@ -44,4 +44,4 @@ Live demo
 
 ## Thanks
 
-Slides and demo: 
+Slides and demo: [github.com/chrisboakes/pnpm-presentation](https://github.com/chrisboakes/pnpm-presentation)
